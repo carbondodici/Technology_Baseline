@@ -28,7 +28,7 @@ Per il corretto funzionamento del programma di addestramento il file dovrà:
 
 In figura viene presentato un esempio del file di addestramento.
 
-![file_csv](https://github.com/carbondodici/Technology_Baseline/tree/master/addestramento/img_README/formatoFileCSV.png)
+![file_csv](https://github.com/carbondodici/Technology_Baseline/blob/master/addestramento/img_README/formatoFileCSV.png)
 
 ### Struttura del predittore.json
 Il file predittore.json avrà una struttura predefinita, tramite la quale sarà possibile la lettura dei risultati nel plug-in di Grafana e il corretto funzionamento delle funzioni di predizione.
@@ -43,7 +43,7 @@ La sua struttura è la seguente:
 
 In figura viene presentato un esempio del file di addestramento.
 
-![file_json](https://github.com/carbondodici/Technology_Baseline/tree/master/addestramento/img_README/formatoFileJSON.png)
+![file_json](https://github.com/carbondodici/Technology_Baseline/blob/master/addestramento/img_README/formatoFileJSON.png)
 
 
 ### Avvio del programma
